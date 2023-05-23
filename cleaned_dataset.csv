@@ -16,8 +16,8 @@ City,Address,Area(In Sq.Feet),Price(Float),Bedroom,Bathroom,Road,Face,Parking,Fl
  Kathmandu, Kalanki,1369.0,33500000.0,8,5,8.0,East,0,4.0
  Lalitpur, Nakkhu,1454.5625,36000000.0,4,5,13.0,South West,2,2.0
  Kathmandu, Ranibari,7101.6875,22000000.0,9,4,8.0,South East,0,3.0
- Lalitpur, Imadol,1112.3125,255.0,4,4,13.0,North East,0,3.0
- Lalitpur, Imadol,1197.875,285.0,4,4,13.0,North West,4,3.0
+ Lalitpur, Imadol,1112.3125,25500000.0,4,4,13.0,North East,0,3.0
+ Lalitpur, Imadol,1197.875,28500000.0,4,4,13.0,North West,4,3.0
  Kathmandu, Bafal,4107.0,75000000.0,10,3,13.0,West,2,3.0
  Lalitpur, Kupondole,2053.5,62000000.0,6,3,13.0,South,0,3.0
  Lalitpur, Bhaisepati,1540.125,37500000.0,3,4,18.0,South,2,3.0
@@ -43,7 +43,7 @@ City,Address,Area(In Sq.Feet),Price(Float),Bedroom,Bathroom,Road,Face,Parking,Fl
  Lalitpur, Imadol,1197.875,28500000.0,9,4,13.0,South,1,3.0
  Kathmandu, Dhumbarahi,1882.375,55000000.0,10,7,13.0,North,2,4.0
  Kathmandu, Sitapaila,2203.234375,53600000.0,3,4,20.0,North,1,3.5
- Lalitpur, Imadol,1219.265625,285.0,6,5,12.0,East,1,3.0
+ Lalitpur, Imadol,1219.265625,28500000.0,6,5,12.0,East,1,3.0
  Lalitpur, Imadol,2053.5,38500000.0,7,5,18.0,East,10,3.0
  Kathmandu, Budhanilkantha,2738.0,79000000.0,5,5,26.0,East,3,2.0
  Lalitpur, Hattiban,1369.0,32500000.0,5,4,13.0,South,1,3.0
@@ -264,7 +264,7 @@ City,Address,Area(In Sq.Feet),Price(Float),Bedroom,Bathroom,Road,Face,Parking,Fl
  Lalitpur, Jharuwarashi,1647.078125,13000000.0,3,2,12.0,East,0,3.0
  Lalitpur, Imadol,855.625,20500000.0,4,3,13.0,North East,1,3.0
  Lalitpur, Imadol,1197.875,26000000.0,4,4,13.0,East,1,3.0
- Kathmandu, Balambu,1026.75,170.0,6,3,16.0,East,1,3.0
+ Kathmandu, Balambu,1026.75,17000000.0,6,3,16.0,East,1,3.0
  Kathmandu, Gokarneshwor,1711.25,26000000.0,11,3,12.0,South East,2,3.0
  Kathmandu, Koteshwor,1155.09375,29500000.0,0,0,26.0,East,0,
  Kathmandu, Balaju,1796.8125,26000000.0,4,3,13.0,East,3,2.0
@@ -288,7 +288,7 @@ City,Address,Area(In Sq.Feet),Price(Float),Bedroom,Bathroom,Road,Face,Parking,Fl
  Kathmandu, Budhanilkantha,2139.0625,37500000.0,0,3,15.0,South,2,3.0
  Kathmandu, Baluwatar,3251.375,70000000.0,0,0,18.0,South,0,
  Kathmandu, Pepsicola,2566.875,86000000.0,0,6,26.248,South West,6,5.0
- Kathmandu, Chandragiri,1026.75,170.0,6,3,16.0,East,1,3.0
+ Kathmandu, Chandragiri,1026.75,17000000.0,6,3,16.0,East,1,3.0
  Kathmandu, Budhanilkantha,1112.3125,16000000.0,2,1,13.0,North,1,
  Kathmandu, Goldhunga,1197.875,17800000.0,9,3,13.0,East,1,3.0
  Kathmandu, Swayambhu,2053.5,50000000.0,5,3,13.0,South,1,2.0
@@ -674,7 +674,7 @@ City,Address,Area(In Sq.Feet),Price(Float),Bedroom,Bathroom,Road,Face,Parking,Fl
  Kathmandu, Bohoratar,1026.75,16500000.0,5,3,22.0,North,0,2.5
  Kathmandu, Satungal,1240.65625,18000000.0,5,4,13.0,East,3,2.5
  Kathmandu, Bafal,1369.0,31000000.0,6,3,16.0,South West,6,2.5
- Kathmandu, Sano Bharyang,1112.3125,215.0,6,5,16.0,East,1,
+ Kathmandu, Sano Bharyang,1112.3125,21500000.0,6,5,16.0,East,1,
  Kathmandu, Baluwatar,1796.8125,55000000.0,6,6,13.0,East,1,6.0
  Kathmandu, Bafal,1197.875,22500000.0,5,3,13.0,East,3,2.5
  Kathmandu, Nagarjun,1197.875,30000000.0,4,3,16.0,East,3,2.5
@@ -756,7 +756,7 @@ City,Address,Area(In Sq.Feet),Price(Float),Bedroom,Bathroom,Road,Face,Parking,Fl
  Kathmandu, Budhanilkantha,2139.0625,32000000.0,4,6,20.0,North,3,3.0
  Kathmandu, Budhanilkantha,3764.75,85000000.0,8,8,13.0,South,3,3.0
  Kathmandu, Budhanilkantha,1582.90625,30000000.0,6,4,13.0,East,1,
- Kathmandu, Tinkune,1796.8125,350.0,0,0,20.0,South,0,
+ Kathmandu, Tinkune,1796.8125,35000000.0,0,0,20.0,South,0,
  Kathmandu, Dallu,11208.6875,278375000.0,0,0,22.0,West,0,3.0
  Kathmandu, Budhanilkantha,2053.5,36000000.0,5,7,14.0,East,2,3.0
  Kathmandu, Maharajgunj,684.5,17000000.0,0,0,40.0,East,0,6.0
@@ -810,7 +810,7 @@ City,Address,Area(In Sq.Feet),Price(Float),Bedroom,Bathroom,Road,Face,Parking,Fl
  Kathmandu, Sukedhara,7786.1875,42500000.0,0,0,13.0,West,0,
  Kathmandu, Gyaneshwor,2224.625,56000000.0,6,5,15.0,South,2,3.0
  Lalitpur, Mahalaxmi Nagarpalika,1283.4375,21500000.0,2,4,12.0,North,1,3.0
- Kathmandu, Tarkeshwor,1454.5625,180.0,4,3,26.0,South,1,3.0
+ Kathmandu, Tarkeshwor,1454.5625,18000000.0,4,3,26.0,South,1,3.0
  Kathmandu, Jorpati,342.25,25000000.0,7,4,14.0,North,1,
  Lalitpur, Lamatar,55102.25,230000001.0,9,5,14.0,East,11,2.0
  Lalitpur, Mahalaxmisthan,1026.75,12500000.0,2,1,15.0,South,0,1.0
@@ -1733,7 +1733,7 @@ City,Address,Area(In Sq.Feet),Price(Float),Bedroom,Bathroom,Road,Face,Parking,Fl
  Kathmandu, Makalbari,1176.484375,21500000.0,7,4,14.0,South West,1,4.0
  Kathmandu, Mhepi,2395.75,38000000.0,8,4,15.0,North West,1,4.0
  Kathmandu, Dallu,1026.75,24000000.0,15,5,20.0,North,0,4.0
- Kathmandu, Thamel,1026.75,100.0,0,0,20.0,East,0,3.0
+ Kathmandu, Thamel,1026.75,10000000.0,0,0,20.0,East,0,3.0
  Kathmandu, Balaju,1240.65625,14200000.0,5,2,13.0,North West,3,2.0
  Kathmandu, Sunderbasti,1197.875,19500000.0,5,3,13.0,East,2,3.0
  Kathmandu, Kalikasthan,3508.0625,100000000.0,5,2,20.0,West,4,3.0
