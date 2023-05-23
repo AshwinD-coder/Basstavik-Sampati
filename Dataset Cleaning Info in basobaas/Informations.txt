@@ -1,0 +1,15 @@
+1.The location of houses where splitted two parts : Address,City.
+2.Type of the house was extracted from the title of house listed in the web.
+3.From the price string, string patterns like(NPR.,Onwards) were removed and the prices that contained Price Per Size of the land were calculated according the size and replaced.Price was kept as a Numerical value.
+4.Area had two types of values like 0-3-2-1(Ropani-Aana-Dam-Paisa) and 3 Aana.These values were converted into numerical value of square feet using Nepali land measurement converter .
+5.Road access had values like 20 feet/Gravelled. We splitted the road width and road type.
+6.Facing orientation of houses had clean values mostly.
+7.Floors and Build year had null values mostly.
+8.Bedroom,Bathroom,Parking,Amenities,Build Area had missing values.
+
+
+
+
+
+
+Address , City , price , Land Area , Road Acess, Facing, Parking , Bedroom , Bathroom , Floor 
