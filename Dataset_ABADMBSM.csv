@@ -1985,3 +1985,633 @@ Price(Float),Area(In Sq.Feet),Road,Face,Floors,Bedroom,Bathroom,Address,City
 28000000.0,1711.25,20.0,East,1.0,4.0,2.5,Sanepa,Lalitpur
 60000000.0,5497.39,20.0,East,1.0,5.0,2.5,Hepali height,Kathmandu
 26000000.0,1369.0,14.0,East,2.5,6.0,4.0,Ganesh Chowk,Kathmandu
+12000000.0,1518.73,3.0,West,1.0,1.0,1.0,Kathmandu,Kathmandu
+25000000.0,1711.25,4.0,South West,3.0,5.0,4.0,Kathmandu,Kathmandu
+15000000.0,1026.75,4.0,South,2.0,4.0,4.0,Mahalaxmi,Lalitpur
+14000000.0,1112.31,5.0,West,5.0,3.0,2.0,Lalitpur,Lalitpur
+8500000.0,427.81,6.0,East,5.0,1.0,1.0,Kathmandu,Kathmandu
+58000000.0,3162.39,6.0,North,3.5,5.0,5.0,Tokha,Kathmandu
+14500000.0,1000.0,6.0,North West,3.5,5.0,3.0,Chandragiri,Kathmandu
+16000000.0,700.0,6.0,East,3.0,6.0,3.0,Suryabinayak,Bhaktapur
+4000000.0,513.375,6.0,East,3.0,2.0,1.0,Bhaktapur,Bhaktapur
+10000000.0,410.7,6.0,East,3.0,1.0,2.0,Kathmandu,Kathmandu
+21000000.0,1369.0,6.0,East,3.0,8.0,3.0,Lalitpur,Lalitpur
+19499988.0,1200.0,6.0,West,2.5,3.0,3.0,Kirtipur,Kathmandu
+20000000.0,1369.0,6.0,East,2.5,6.0,2.0,Kathmandu,Kathmandu
+15000000.0,1540.12,6.0,East,2.0,4.0,2.0,Budhanilkantha,Kathmandu
+55000000.0,2012.43,8.0,South,3.5,6.0,4.0,Kathmandu,Kathmandu
+13500000.0,855.625,8.0,North,3.0,5.0,4.0,Changunarayan-02,Bhaktapur
+18500000.0,1437.45,8.0,East,2.5,1.0,1.0,Suryabinayak,Bhaktapur
+52500000.0,2139.0,8.0,East,2.5,1.0,1.0,Kathmandu,Kathmandu
+17500000.0,941.1875,8.0,South,2.5,4.0,3.0,Kathmandu,Kathmandu
+27500000.0,1283.4375,8.0,North East,2.5,7.0,5.0,Mahalaxmi,Lalitpur
+15500000.0,1176.48,8.0,East,2.0,1.0,1.0,Nagarjun,Kathmandu
+16000000.0,1200.0,8.0,North,2.0,3.0,2.0,Nagarjun,Kathmandu
+12500000.0,855.625,8.0,South,1.0,2.0,1.0,Kageshwori Manahara,Kathmandu
+18000000.0,1250.0,10.0,East,12.0,3.0,2.0,Patan,Lalitpur
+45000000.0,2652.4375,10.0,West,4.5,7.0,8.0,Samakhusi,Kathmandu
+23000000.0,1026.75,10.0,South,4.5,15.0,8.0,Kathmandu,Kathmandu
+100000000.0,2738.0,10.0,East,4.0,6.0,4.0,Kathmandu,Kathmandu
+35000000.0,1390.390625,10.0,South,4.0,12.0,8.0,Kathmandu,Kathmandu
+50000000.0,1582.9,10.0,South,4.0,8.0,8.0,Kathmandu,Kathmandu
+21000000.0,1283.43,10.0,East,3.5,8.0,3.0,Bhaktapur,Bhaktapur
+31000000.0,1235.5225,10.0,North,3.5,11.0,3.0,Kathmandu,Kathmandu
+27500000.0,1711.25,10.0,East,3.5,5.0,5.0,Gokarneshwor,Kathmandu
+13500000.0,1026.75,10.0,South,3.5,4.0,3.0,Kirtipur,Kathmandu
+16000000.0,1000.0,10.0,East,3.5,4.0,3.0,Kathmandu,Kathmandu
+36500000.0,577.546875,10.0,West,3.5,8.0,3.0,Kathmandu,Kathmandu
+41500000.0,1026.75,10.0,East,3.5,1.0,4.0,Kathmandu,Kathmandu
+30000000.0,1540.125,10.0,East,3.5,1.0,5.0,Nagarjun,Kathmandu
+48000000.0,2738.0,10.0,East,3.5,5.0,4.0,Kathmandu,Kathmandu
+30000000.0,1026.75,10.0,North West,3.5,6.0,4.0,Balkumari,Lalitpur
+23000000.0,1326.21875,10.0,North East,3.5,4.0,4.0,Lalitpur,Lalitpur
+25000000.0,898.44,10.0,East,3.5,6.0,3.0,Mahalaxmi,Lalitpur
+60000000.0,2909.125,10.0,East,3.5,12.0,6.0,Mahalaxmi,Lalitpur
+29500000.0,1500.0,10.0,South,3.0,8.0,3.0,Suryabinayak,Bhaktapur
+20200000.0,1026.75,10.0,East,3.0,7.0,4.0,Suryabinayak,Bhaktapur
+350000000.0,1500.0,10.0,South East,3.0,7.0,3.0,Kathmandu,Kathmandu
+36000000.0,2053.5,10.0,South East,3.0,6.0,5.0,Budhanilkantha,Kathmandu
+29000000.0,1369.0,10.0,South East,3.0,1.0,1.0,Budhanilkantha,Kathmandu
+39500000.0,1540.125,10.0,East,3.0,1.0,1.0,Kathmandu,Kathmandu
+22000000.0,1197.875,10.0,East,3.0,6.0,4.0,Kathmandu,Kathmandu
+18500000.0,855.625,10.0,North East,3.0,3.0,3.0,Mahalaxmi,Lalitpur
+30000000.0,1711.25,10.0,West,2.5,5.0,4.0,Chandragiri,Kathmandu
+22000000.0,1711.25,10.0,East,2.5,6.0,3.0,Chandragiri,Kathmandu
+105000000.0,3764.0,10.0,East,2.5,4.0,4.0,Kathmandu,Kathmandu
+19500000.0,898.0,10.0,South West,2.5,4.0,3.0,Kathmandu,Kathmandu
+24500000.0,1369.0,10.0,East,2.5,6.0,3.0,Kathmandu,Kathmandu
+75000000.0,4107.0,10.0,East,2.5,5.0,5.0,Kathmandu,Kathmandu
+15000000.0,1026.75,10.0,North,2.5,6.0,3.0,Mulpani,Kathmandu
+17000000.0,1369.0,10.0,North,2.5,6.0,3.0,Kathmandu,Kathmandu
+20000000.0,1369.0,10.0,North,2.5,6.0,3.0,Kathmandu,Kathmandu
+15200000.0,855.625,10.0,East,2.5,4.0,3.0,Gokarneshwor,Kathmandu
+16000000.0,1197.875,10.0,East,2.5,3.0,3.0,Gokarneshwor-1,Kathmandu
+13000000.0,941.1875,10.0,West,2.5,4.0,3.0,Nagarjun-03,Kathmandu
+14500000.0,855.625,10.0,South East,2.5,5.0,3.0,Chandragiri- 12,Kathmandu
+50000000.0,2395.75,10.0,South,2.5,4.0,4.0,Tokha,Kathmandu
+29000000.0,1454.56,10.0,West,2.5,6.0,4.0,Budhanilkantha,Kathmandu
+25500000.0,1925.15,10.0,West,2.5,4.0,2.0,Nagarjun,Kathmandu
+29000000.0,1711.25,10.0,West,2.5,4.0,4.0,Kathmandu,Kathmandu
+48000000.0,2738.0,10.0,South,2.5,7.0,5.0,Kathmandu,Kathmandu
+14500000.0,1095.2,10.0,East,2.5,3.0,3.0,Nagarjun,Kathmandu
+35500000.0,1500.0,10.0,East,2.5,6.0,4.0,Nagarjun,Kathmandu
+26500000.0,1369.0,10.0,East,2.5,5.0,3.0,Budhanilkantha,Kathmandu
+25000000.0,900.0,10.0,East,2.5,5.0,3.0,Nagarjun,Kathmandu
+26500000.0,1711.25,10.0,West,2.5,6.0,3.0,Chandragiri,Kathmandu
+23500000.0,1197.875,10.0,South East,2.5,5.0,3.0,Budhanilkantha,Kathmandu
+14300000.0,752.95,10.0,South,2.5,3.0,3.0,Gokarneshwor,Kathmandu
+45000000.0,1711.25,10.0,East,2.5,7.0,4.0,Tokha,Kathmandu
+28000000.0,1369.0,10.0,South,2.5,5.0,4.0,Gokarneshwor,Kathmandu
+17000000.0,1026.75,10.0,East,2.5,5.0,4.0,Mahalaxmi,Lalitpur
+41000000.0,1026.75,10.0,South East,2.5,6.0,5.0,Lalitpur,Lalitpur
+21500000.0,1026.75,10.0,South,2.5,7.0,4.0,Lalitpur,Lalitpur
+26000000.0,1369.0,10.0,South,2.5,4.0,3.0,Godawari,Lalitpur
+15000000.0,1133.703125,10.0,East,2.5,5.0,2.0,Mahalaxmi,Lalitpur
+23500000.0,1882.375,10.0,East,2.5,6.0,5.0,Lalitpur,Lalitpur
+11000000.0,855.62,10.0,East,2.0,4.0,3.0,Chandragiri,Kathmandu
+23500000.0,1711.25,10.0,South,2.0,1.0,1.0,Gokarneshwor,Kathmandu
+26000000.0,1625.68,10.0,North,2.0,2.0,2.0,Budhanilkantha,Kathmandu
+9100000.0,900.0,10.0,West,2.0,3.0,2.0,Kathmandu,Kathmandu
+9000000.0,1060.975,10.0,North,1.5,3.0,2.0,Bhaktapur,Bhaktapur
+10500000.0,1069.53,10.0,West,1.0,2.0,2.0,Bhaktapur,Bhaktapur
+750000000.0,1060.975,10.0,South,1.0,4.0,1.0,Changunarayan,Bhaktapur
+17200000.0,1026.75,10.0,South,1.0,5.0,1.0,Kathmandu,Kathmandu
+12700000.0,1026.75,10.0,North,1.0,3.0,1.0,Tarkeshwor,Kathmandu
+19000000.0,1369.0,10.0,West,1.0,2.0,1.0,Budhanilkantha,Kathmandu
+18500000.0,3080.25,10.0,West,1.0,4.0,1.0,Chandragiri,Kathmandu
+11000000.0,1219.26,10.0,South East,1.0,2.0,1.0,Kageshwori Manahara,Kathmandu
+17000000.0,1433.171875,10.0,West,1.0,2.0,1.0,Lalitpur,Lalitpur
+27500000.0,1197.875,11.0,East,2.5,5.0,2.0,Budanilkantha-10,Kathmandu
+36000000.0,1112.3125,12.0,South,5.5,23.0,15.0,Kathmandu,Kathmandu
+41000000.0,2395.75,12.0,South East,4.0,11.0,4.0,Kathmandu,Kathmandu
+37500000.0,1369.0,12.0,East,4.0,8.0,5.0,Kathmandu,Kathmandu
+38000000.0,1711.25,12.0,West,4.0,8.0,4.0,Kathmandu,Kathmandu
+35000000.0,1946.54,12.0,North East,3.5,9.0,4.0,Kathmandu,Kathmandu
+45000000.0,2395.75,12.0,East,3.5,8.0,5.0,Kathmandu,Kathmandu
+35000000.0,1411.78,12.0,South,3.5,8.0,5.0,Tokha,Kathmandu
+35500000.0,1839.59,12.0,East,3.5,7.0,5.0,Gokarneshwor,Kathmandu
+40000000.0,1863.0,12.0,South,3.5,1.0,4.0,Kirtipur,Kathmandu
+55000000.0,2738.0,12.0,South West,3.5,11.0,6.0,Tokha- 11,Kathmandu
+20000000.0,1411.78125,12.0,West,3.5,7.0,3.0,Mahalaxmi,Lalitpur
+33500000.0,1711.25,12.0,East,3.5,8.0,4.0,Lalitpur,Lalitpur
+33500000.0,1711.25,12.0,East,3.5,8.0,4.0,Lalitpur,Lalitpur
+150000000.0,10952.0,12.0,South,3.0,4.0,4.0,Kathmandu,Kathmandu
+14000000.0,1197.875,12.0,East,3.0,2.0,2.0,Budhanilkantha,Kathmandu
+30000000.0,1369.0,12.0,East,3.0,6.0,3.0,Gokarneshwor,Kathmandu
+60000000.0,2738.0,12.0,East,3.0,8.0,5.0,Kathmandu,Kathmandu
+76000000.0,3600.0,12.0,West,3.0,2.0,1.0,Budhanilkantha,Kathmandu
+23750000.0,1197.875,12.0,North West,3.0,6.0,5.0,Gongabu,Kathmandu
+45000000.0,1347.609375,12.0,North East,3.0,6.0,4.0,Kathmandu-14,Kathmandu
+25000000.0,1454.56,12.0,North West,3.0,4.0,4.0,Budhanilkantha,Kathmandu
+23000000.0,1069.53125,12.0,South,3.0,6.0,3.0,Mahalaxmi-5,Lalitpur
+23000000.0,1497.34,12.0,South West,2.5,5.0,3.0,Suryabinayak,Bhaktapur
+31000000.0,1540.125,12.0,West,2.5,5.0,4.0,Madhyapur Thimi-3,Bhaktapur
+31000000.0,1625.6875,12.0,West,2.5,5.0,4.0,Budhanilkantha,Kathmandu
+45000000.0,2395.75,12.0,East,2.5,5.0,3.0,Kathmandu,Kathmandu
+27500000.0,1283.43,12.0,North East,2.5,4.0,4.0,Nagarjun,Kathmandu
+22000000.0,1112.31,12.0,East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+28500000.0,1540.125,12.0,South,2.5,5.0,2.0,Kathmandu,Kathmandu
+58000000.0,3016.07,12.0,East,2.5,6.0,5.0,Kathmandu,Kathmandu
+5000000.0,1200.0,12.0,South West,2.5,7.0,3.0,Tarkeshwor,Kathmandu
+28000000.0,1369.0,12.0,East,2.5,5.0,3.0,Budhanilkantha,Kathmandu
+31000000.0,1540.12,12.0,South East,2.5,5.0,2.0,Budhanilkantha,Kathmandu
+18000000.0,1069.53125,12.0,East,2.5,5.0,3.0,Jorpati,Kathmandu
+50000000.0,4107.0,12.0,East,2.5,7.0,5.0,Budhanilkantha,Kathmandu
+21500000.0,1197.87,12.0,East,2.5,7.0,4.0,Chandragiri,Kathmandu
+25000000.0,1540.125,12.0,North East,2.5,7.0,5.0,Budhanilkantha,Kathmandu
+55000000.0,1745.475,12.0,South East,2.5,4.0,5.0,Kathmandu,Kathmandu
+27000000.0,1369.0,12.0,South East,2.5,5.0,4.0,Budhanilkantha,Kathmandu
+100000000.0,1711.2,12.0,East,2.5,6.0,4.0,Kathmandu,Kathmandu
+36500000.0,1711.25,12.0,South West,2.5,7.0,3.0,Kathmandu,Kathmandu
+55000000.0,2738.0,12.0,East,2.5,8.0,4.0,Budhanilkantha,Kathmandu
+25000000.0,1561.51,12.0,East,2.5,5.0,4.0,Tarkeshwor,Kathmandu
+33000000.0,1437.45,12.0,North,2.5,3.0,4.0,Kathmandu,Kathmandu
+27000000.0,1440.0,12.0,East,2.5,3.0,3.0,Budhanilkantha,Kathmandu
+70000000.0,2395.75,12.0,East,2.5,4.0,3.0,Kathmandu,Kathmandu
+23000000.0,1197.875,12.0,East,2.5,3.0,4.0,Budhanilkantha,Kathmandu
+26000000.0,1711.25,12.0,West,2.5,5.0,3.0,Mahalaxmi,Lalitpur
+22500000.0,1112.3125,12.0,North,2.5,6.0,3.0,Lalitpur,Lalitpur
+29000000.0,1882.375,12.0,North,2.5,4.0,4.0,Lalitpur,Lalitpur
+31500000.0,1690.715,12.0,North,2.5,6.0,4.0,Lalitpur,Lalitpur
+16000000.0,1026.75,12.0,East,2.5,5.0,3.0,Lalitpur,Lalitpur
+21500000.0,1112.31,12.0,South,2.5,3.0,3.0,Lalitpur,Lalitpur
+40000000.0,2738.0,12.0,East,2.5,8.0,5.0,Lalitpur,Lalitpur
+26000000.0,1197.875,12.0,East,2.5,7.0,3.0,Mahalaxmi-5,Lalitpur
+25000000.0,1112.31,12.0,East,2.5,2.0,3.0,Mahalaxmi,Lalitpur
+23000000.0,1197.875,12.0,South East,2.5,6.0,4.0,Mahalaxmi,Lalitpur
+49500000.0,1369.0,12.0,North,2.0,1.0,3.0,Kathmandu,Kathmandu
+17500000.0,1711.25,12.0,East,2.0,4.0,2.0,Chandragiri,Kathmandu
+96000000.0,4107.0,12.0,South,2.0,3.0,3.0,Kathmandu,Kathmandu
+37500000.0,1818.2,12.0,East,2.0,5.0,2.0,Budhanilkantha,Kathmandu
+13000000.0,1625.68,12.0,West,2.0,3.0,2.0,Godawari,Lalitpur
+18000000.0,2566.875,12.0,East,1.5,2.0,1.0,Kathmandu,Kathmandu
+11500000.0,855.62,12.0,East,1.5,3.0,1.0,Mahalaxmi,Lalitpur
+12000000.0,1026.75,12.0,East,1.0,2.0,1.0,Suryabinayak,Bhaktapur
+12200000.0,1026.75,12.0,South,1.0,2.0,1.0,Mahalaxmi,Lalitpur
+12000000.0,1005.35,12.0,South,1.0,2.0,2.0,Mahalaxmi,Lalitpur
+8000000.0,605.0,12.0,South East,1.0,2.0,1.0,Lalitpur,Lalitpur
+3150000000.0,1369.0,13.0,East,7.0,3.0,5.0,Budhanilkantha,Kathmandu
+26500000.0,1369.0,13.0,East,7.0,1.0,1.0,Nagarjun,Kathmandu
+45500000.0,2053.5,13.0,North East,4.5,13.0,7.0,Bhaktapur,Bhaktapur
+52500000.0,2181.84375,13.0,North East,4.5,20.0,21.0,Kathmandu,Kathmandu
+45000000.0,1369.0,13.0,North East,4.5,20.0,17.0,New Buspark,Kathmandu
+38000000.0,1369.0,13.0,North East,4.5,12.0,5.0,Kathmandu,Kathmandu
+70000000.0,3422.5,13.0,South,4.5,13.0,9.0,Lalitpur,Lalitpur
+28000000.0,1582.9,13.0,East,4.0,8.0,5.0,Suryabinayak,Bhaktapur
+16000000.0,3764.75,13.0,North,4.0,1.0,1.0,Kathmandu,Kathmandu
+23000000.0,350.796,13.0,South,4.0,1.0,5.0,Budhanilkantha,Kathmandu
+21500000.0,1026.75,13.0,East,3.5,6.0,5.0,Madhyapur Thimi,Bhaktapur
+75000000.0,3422.5,13.0,East,3.5,6.0,5.0,Suryabinayak,Bhaktapur
+26500000.0,1796.81,13.0,East,3.5,8.0,4.0,Suryabinayak,Bhaktapur
+27000000.0,1369.0,13.0,East,3.5,4.0,4.0,Kathmandu,Kathmandu
+55000000.0,2395.75,13.0,East,3.5,12.0,7.0,Tarkeshwor,Kathmandu
+47500000.0,1711.25,13.0,East,3.5,8.0,5.0,Kathmandu,Kathmandu
+29000000.0,1454.5625,13.0,South East,3.5,7.0,4.0,Chandragiri,Kathmandu
+37000000.0,1026.75,13.0,East,3.5,6.0,3.0,Kathmandu,Kathmandu
+25000000.0,1369.0,13.0,South East,3.5,6.0,4.0,Tokha,Kathmandu
+24000000.0,1197.875,13.0,West,3.5,7.0,4.0,Budhanilkantha,Kathmandu
+35000000.0,1796.81,13.0,East,3.5,12.0,7.0,Lalitpur,Lalitpur
+22500000.0,1026.75,13.0,West,3.5,7.0,1.0,Lalitpur,Lalitpur
+28700000.0,1403.225,13.0,South,3.5,6.0,5.0,Lalitpur,Lalitpur
+39000000.0,1197.875,13.0,East,3.5,5.0,6.0,Lalitpur Metropolitan,Lalitpur
+27499999.0,1197.87,13.0,North East,3.0,7.0,3.0,Madhyapur Thimi,Bhaktapur
+30000000.0,1200.0,13.0,East,3.0,8.0,3.0,Gokarneshwor,Kathmandu
+23500000.0,1129.425,13.0,East,3.0,7.0,5.0,Tokha,Kathmandu
+80000000.0,3422.5,13.0,West,3.0,6.0,5.0,Kathmandu,Kathmandu
+41000000.0,2053.5,13.0,South West,3.0,5.0,4.0,Budhanikantha,Kathmandu
+27500000.0,1369.0,13.0,South,3.0,3.0,5.0,Gokarneshwor,Kathmandu
+16500000.0,1000.0,13.0,South,3.0,8.0,3.0,Kirtipur,Kathmandu
+18000000.0,1026.75,13.0,South East,3.0,8.0,3.0,Kirtipur,Kathmandu
+15500000.0,855.625,13.0,South,3.0,5.0,3.0,Nagarjun,Kathmandu
+33000000.0,1026.75,13.0,West,3.0,5.0,4.0,Kathmandu,Kathmandu
+21500000.0,1283.4375,13.0,East,3.0,6.0,3.0,Kageshwari-Manohara-07,Kathmandu
+33000000.0,1540.125,13.0,East,3.0,6.0,3.0,Kathmandu,Kathmandu
+27500000.0,1155.09375,13.0,North West,3.0,6.0,4.0,Mahalaxmi-4,Lalitpur
+26500000.0,1026.75,13.0,West,3.0,5.0,3.0,Mahalaxmi,Lalitpur
+10500000.0,983.96,13.0,West,3.0,3.0,2.0,Mahalaxmi,Lalitpur
+53500000.0,3764.75,13.0,West,3.0,6.0,5.0,Lalitpur,Lalitpur
+24500000.0,1048.14,13.0,East,3.0,4.0,5.0,Mahalaxmi,Lalitpur
+28100000.0,1026.75,13.0,North,3.0,5.0,4.0,Mahalaxmi,Lalitpur
+34000000.0,1197.875,13.0,East,3.0,6.0,4.0,Mahalaxmi,Lalitpur
+26500000.0,1197.875,13.0,North,3.0,5.0,4.0,Lalitpur,Lalitpur
+35000000.0,1882.375,13.0,West,3.0,5.0,4.0,Mahalaxmi,Lalitpur
+22500000.0,1060.0,13.0,West,3.0,4.0,4.0,Lalitpur,Lalitpur
+35000000.0,1882.375,13.0,South East,3.0,5.0,4.0,Mahalaxmi,Lalitpur
+20800000.0,1060.975,13.0,North,3.0,5.0,5.0,Mahalaxmi,Lalitpur
+23500000.0,1390.39,13.0,West,3.0,6.0,3.0,Mahalaxmi,Lalitpur
+26000000.0,1026.75,13.0,East,3.0,6.0,3.0,Mahalaxmi-4,Lalitpur
+19900000.0,941.1875,13.0,East,3.0,5.0,4.0,Mahalaxmi-5,Lalitpur
+18500000.0,1155.09375,13.0,East,2.5,3.0,3.0,Madyapur Thimi-08,Bhaktapur
+28000000.0,1369.0,13.0,North West,2.5,6.0,3.0,Bhaktapur,Bhaktapur
+55100000.0,3422.5,13.0,East,2.5,5.0,4.0,Suryabinayak,Bhaktapur
+25000000.0,1369.0,13.0,North West,2.5,6.0,3.0,Bhaktapur,Bhaktapur
+38000000.0,1625.68,13.0,West,2.5,6.0,4.0,Madhyapur Thimi,Bhaktapur
+27500000.0,1155.09375,13.0,West,2.5,4.0,4.0,Bhaktapur,Bhaktapur
+25500000.0,1454.5625,13.0,West,2.5,6.0,4.0,Kageshwori Manohara,Kathmandu
+19000000.0,1197.875,13.0,South,2.5,2.0,4.0,Nagarjun- 8,Kathmandu
+27500000.0,1711.25,13.0,East,2.5,7.0,4.0,Tokha,Kathmandu
+31000000.0,1711.25,13.0,East,2.5,4.0,5.0,Budhanilkantha,Kathmandu
+31800000.0,1882.37,13.0,South East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+32500000.0,1711.25,13.0,East,2.5,5.0,5.0,Tokha,Kathmandu
+29800000.0,1711.25,13.0,West,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+29500000.0,1026.75,13.0,West,2.5,5.0,3.0,Tokha,Kathmandu
+26000000.0,1369.0,13.0,North East,2.5,5.0,4.0,Chandragiri,Kathmandu
+26000000.0,1369.0,13.0,East,2.5,3.0,3.0,Chandragiri,Kathmandu
+22500000.0,1197.87,13.0,East,2.5,5.0,4.0,Budhanilkantha,Kathmandu
+23800000.0,1390.39,13.0,East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+18000000.0,1026.75,13.0,North East,2.5,6.0,3.0,Mahalaxmi,Kathmandu
+29500000.0,1369.0,13.0,East,2.5,5.0,4.0,Tokha,Kathmandu
+32000000.0,2053.5,13.0,South East,2.5,5.0,4.0,Budhanilkantha,Kathmandu
+36500000.0,2395.75,13.0,East,2.5,3.0,3.0,Budhanilkantha,Kathmandu
+33400000.0,1882.37,13.0,South East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+35000000.0,1369.0,13.0,East,2.5,6.0,4.0,Budhanilkantha,Kathmandu
+27500000.0,1369.0,13.0,East,2.5,5.0,5.0,Tokha,Kathmandu
+28000000.0,1711.25,13.0,East,2.5,6.0,4.0,Kathmandu,Kathmandu
+25300000.0,1454.56,13.0,East,2.5,5.0,5.0,Nagarjun,Kathmandu
+50500000.0,2738.0,13.0,East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+26000000.0,1540.125,13.0,South,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+24000000.0,1069.53125,13.0,East,2.5,6.0,3.0,Kathmandu,Kathmandu
+30000000.0,1197.875,13.0,East,2.5,2.0,2.0,Kathmandu,Kathmandu
+49500000.0,1967.9375,13.0,South,2.5,5.0,5.0,Kathmandu,Kathmandu
+28000000.0,1026.75,13.0,South,2.5,4.0,4.0,Kathmandu,Kathmandu
+85000000.0,3764.75,13.0,South East,2.5,6.0,4.0,Budhanilkantha-4,Kathmandu
+23500000.0,1069.53125,13.0,North East,2.5,5.0,3.0,Kathmandu,Kathmandu
+30000000.0,1711.25,13.0,South West,2.5,5.0,4.0,Kapan,Kathmandu
+27000000.0,1155.09,13.0,South East,2.5,6.0,3.0,Kathmandu,Kathmandu
+24000000.0,1048.140625,13.0,South West,2.5,6.0,3.0,Kageshwori Manohara-07,Kathmandu
+14500000.0,1026.75,13.0,South East,2.5,2.0,3.0,Chandragiri,Kathmandu
+26500000.0,1437.45,13.0,East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+29500000.0,1369.0,13.0,East,2.5,5.0,4.0,Kathmandu,Kathmandu
+16500000.0,1197.875,13.0,South West,2.5,5.0,4.0,Budhanilkantha,Kathmandu
+22000000.0,1197.87,13.0,East,2.5,7.0,5.0,Budhanilkantha,Kathmandu
+27000000.0,1369.0,13.0,East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+100000000.0,6502.75,13.0,East,2.5,6.0,5.0,Budhanilkantha,Kathmandu
+32000000.0,1369.0,13.0,East,2.5,6.0,5.0,Kathmandu,Kathmandu
+170000000.0,6845.0,13.0,East,2.5,5.0,7.0,Nagarjun,Kathmandu
+23000000.0,1026.75,13.0,South East,2.5,5.0,3.0,Kageshwori Manahara,Kathmandu
+60000000.0,3080.25,13.0,South West,2.5,4.0,5.0,Budhanikantha,Kathmandu
+22000000.0,1369.0,13.0,East,2.5,6.0,4.0,Budhanilkantha,Kathmandu
+34000000.0,2395.75,13.0,South West,2.5,6.0,4.0,Budhanilkantha,Kathmandu
+42000000.0,2053.5,13.0,East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+32000000.0,1711.25,13.0,East,2.5,6.0,5.0,Tokha,Kathmandu
+28000000.0,1369.0,13.0,East,2.5,7.0,4.0,Budhanilkantha,Kathmandu
+27000000.0,1369.0,13.0,East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+41500000.0,1745.475,13.0,West,2.5,6.0,5.0,Budhanilkantha,Kathmandu
+55000000.0,1745.475,13.0,North East,2.5,6.0,5.0,Kathmandu,Kathmandu
+65000000.0,2738.0,13.0,South,2.5,5.0,3.0,Budhanikantha,Kathmandu
+27500000.0,1369.0,13.0,South East,2.5,5.0,3.0,Chandragiri,Kathmandu
+110000000.0,1711.2,13.0,East,2.5,6.0,5.0,Kathmandu,Kathmandu
+130000000.0,3800.0,13.0,South,2.5,4.0,5.0,Kathmandu,Kathmandu
+18000000.0,1197.87,13.0,South,2.5,6.0,3.0,Kirtipur,Kathmandu
+31000000.0,1369.0,13.0,South East,2.5,5.0,4.0,Nagarjun,Kathmandu
+35000000.0,1711.25,13.0,West,2.5,5.0,5.0,Budhanikantha,Kathmandu
+60000000.0,2395.75,13.0,East,2.5,4.0,5.0,Kathmandu,Kathmandu
+26000000.0,1540.125,13.0,East,2.5,4.0,3.0,Kathmandu,Kathmandu
+27500000.0,1369.0,13.0,East,2.5,6.0,5.0,Chandragiri,Kathmandu
+26000000.0,1048.14,13.0,West,2.5,3.0,4.0,Tokha,Kathmandu
+36000000.0,1711.25,13.0,North East,2.5,6.0,5.0,Budhanilkantha,Kathmandu
+77000000.0,3080.25,13.0,East,2.5,6.0,4.0,Lalitpur,Kathmandu
+55000000.0,2566.875,13.0,North East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+37500000.0,1882.375,13.0,South,2.5,5.0,3.0,Budhanilkantha,Kathmandu
+35000000.0,1882.375,13.0,East,2.5,2.0,1.0,Kathmandu,Kathmandu
+32000000.0,1711.25,13.0,East,2.5,1.0,3.0,Kathmandu,Kathmandu
+19500000.0,1026.75,13.0,West,2.5,6.0,3.0,Gokarneshwor,Kathmandu
+27000000.0,1540.125,13.0,North,2.5,5.0,4.0,Kathmandu,Kathmandu
+34500000.0,1711.25,13.0,South,2.5,5.0,4.0,Budhanilkantha,Kathmandu
+34500000.0,1026.75,13.0,East,2.5,4.0,4.0,Kathmandu,Kathmandu
+27000000.0,1197.87,13.0,North,2.5,6.0,3.0,Kageshwori Manahara,Kathmandu
+23500000.0,1026.75,13.0,East,2.5,4.0,3.0,Mahalaxmi,Lalitpur
+24100000.0,1026.75,13.0,North West,2.5,7.0,3.0,Mahalaxmi,Lalitpur
+25000000.0,1369.0,13.0,North East,2.5,4.0,4.0,Mahalaxmi,Lalitpur
+25000000.0,1112.31,13.0,North,2.5,7.0,4.0,Mahalaxmi,Lalitpur
+25000000.0,1133.7,13.0,East,2.5,4.0,4.0,Mahalaxmi,Lalitpur
+23000000.0,1026.75,13.0,East,2.5,4.0,4.0,Mahalaxmi,Lalitpur
+26000000.0,1197.87,13.0,North East,2.5,5.0,4.0,Mahalaxmi,Lalitpur
+25000000.0,1112.3125,13.0,South West,2.5,6.0,3.0,Mahalaxmi,Lalitpur
+27500000.0,1197.87,13.0,East,2.5,5.0,4.0,Mahalaxmi,Lalitpur
+23000000.0,1026.75,13.0,West,2.5,4.0,4.0,Mahalaxmi,Lalitpur
+22500000.0,1026.75,13.0,West,2.5,4.0,4.0,Mahalaxmi,Lalitpur
+23500000.0,1026.75,13.0,South,2.5,4.0,4.0,Mahalaxmi,Lalitpur
+36500000.0,1219.26,13.0,East,2.5,3.0,4.0,Lalitpur,Lalitpur
+23500000.0,1112.3125,13.0,South East,2.5,5.0,4.0,Lalitpur,Lalitpur
+25000000.0,1197.875,13.0,South West,2.5,3.0,3.0,Mahalaxmi,Lalitpur
+25000000.0,1112.3125,13.0,South,2.5,6.0,5.0,Mahalaxmi-5,Lalitpur
+37500000.0,1369.0,13.0,South East,2.5,4.0,4.0,Lalitpur,Lalitpur
+18500000.0,1026.75,13.0,South,2.5,4.0,2.0,Mahalaxmi,Lalitpur
+27000000.0,1197.87,13.0,North East,2.5,6.0,4.0,Mahalaxmi,Lalitpur
+23500000.0,1026.75,13.0,East,2.5,5.0,4.0,Mahalaxmi,Lalitpur
+23500000.0,1026.75,13.0,East,2.5,4.0,4.0,Lalitpur,Lalitpur
+36000000.0,1454.5625,13.0,South West,2.5,4.0,5.0,Lalitpur,Lalitpur
+21500000.0,855.625,13.0,West,2.5,5.0,3.0,Lalitpur,Lalitpur
+37500000.0,1369.0,13.0,West,2.5,6.0,5.0,Lalitpur,Lalitpur
+18500000.0,1197.875,13.0,East,2.5,5.0,3.0,Mahalaxmi,Lalitpur
+21000000.0,1369.0,13.0,West,2.5,7.0,3.0,Mahalaxmi,Lalitpur
+19500000.0,900.0,13.0,East,2.5,5.0,5.0,Lalitpur,Lalitpur
+16000000.0,1197.875,13.0,East,2.5,4.0,3.0,Lalitpur,Lalitpur
+32500000.0,1369.0,13.0,North,2.5,5.0,4.0,Mahalaxmi,Lalitpur
+18000000.0,1026.75,13.0,North West,2.5,4.0,3.0,Mahalaxmi,Lalitpur
+19500000.0,1026.75,13.0,North,2.5,4.0,4.0,Mahalaxmi,Lalitpur
+20000000.0,1026.75,13.0,North,2.5,4.0,4.0,Mahalaxmi,Lalitpur
+20000000.0,1026.75,13.0,East,2.5,4.0,3.0,Mahalaxmi,Lalitpur
+19000000.0,1000.0,13.0,East,2.5,5.0,3.0,Mahalaxmi,Lalitpur
+24000000.0,1026.75,13.0,East,2.5,4.0,3.0,Mahalaxmi,Lalitpur
+17200000.0,1069.53125,13.0,East,2.5,6.0,3.0,Mahalaxmi,Lalitpur
+25000000.0,1026.75,13.0,East,2.5,4.0,4.0,Mahalaxmi-4,Lalitpur
+22000000.0,1026.75,13.0,East,2.5,4.0,3.0,Mahalaxmi,Lalitpur
+20000000.0,1026.75,13.0,East,2.5,4.0,3.0,Lalitpur,Lalitpur
+80000000.0,3422.5,13.0,North East,2.5,4.0,3.0,Lalitpur,Lalitpur
+18500000.0,1026.75,13.0,South,2.5,4.0,3.0,Mahalaxmi,Lalitpur
+44000000.0,1711.25,13.0,South East,2.5,1.0,1.0,Lalitpur,Lalitpur
+28000000.0,1369.0,13.0,South,2.5,6.0,4.0,Mahalaxmi,Lalitpur
+22500000.0,1155.09,13.0,South,2.5,4.0,4.0,Mahalaxmi,Lalitpur
+19000000.0,1026.75,13.0,South,2.5,4.0,3.0,Mahalaxmi,Lalitpur
+28500000.0,1540.12,13.0,East,2.5,6.0,4.0,Lalitpur,Lalitpur
+24000000.0,1048.14,13.0,East,2.5,4.0,3.0,Mahalaxmi,Lalitpur
+35000000.0,1711.25,13.0,South,2.5,5.0,3.0,Godawari,Lalitpur
+25000000.0,1026.75,13.0,South East,2.5,4.0,3.0,Mahalaxmi,Lalitpur
+102500000.0,4107.0,13.0,South,2.5,5.0,4.0,Lalitpur,Lalitpur
+32500000.0,1369.0,13.0,North,2.5,5.0,5.0,Godawari,Lalitpur
+23500000.0,1197.87,13.0,South,2.5,5.0,3.0,Lalitpur,Lalitpur
+34000000.0,1775.42,13.0,East,2.5,5.0,3.0,Lalitpur,Lalitpur
+20600000.0,855.625,13.0,West,2.5,6.0,3.0,Lalitpur,Lalitpur
+20000000.0,1197.875,13.0,East,2.0,5.0,2.0,Kathmandu,Kathmandu
+16000000.0,1060.975,13.0,North,2.0,2.0,1.0,Budhanilkantha,Kathmandu
+12500000.0,1112.31,13.0,East,1.5,2.0,1.0,Suryabinayak,Bhaktapur
+16000000.0,500.0,13.0,South West,1.5,2.0,2.0,Mahalaxmi,Lalitpur
+16500000.0,1026.75,13.0,East,1.5,2.0,1.0,Lalitpur,Lalitpur
+15000000.0,1369.0,13.0,West,1.0,2.0,1.0,Suryabinayek-1,Bhaktapur
+15000000.0,1369.0,13.0,South East,1.0,2.0,1.0,Suryabinayak,Bhaktapur
+17200000.0,1112.3125,13.0,West,1.0,2.0,1.0,Lalitpur,Kathmandu
+9500000.0,1155.09,13.0,East,1.0,2.0,1.0,Chandragiri,Kathmandu
+12500000.0,1026.75,13.0,South,1.0,2.0,1.0,Kathmandu,Kathmandu
+9500000.0,1219.26,13.0,East,1.0,2.0,1.0,Chandragiri,Kathmandu
+29000000.0,1369.0,13.0,South,1.0,1.0,1.0,Kathmandu,Kathmandu
+32500000.0,1197.875,13.0,East,1.0,6.0,1.0,Kathmandu,Kathmandu
+27500000.0,1197.87,13.0,South East,1.0,3.0,3.0,Budhanilkantha,Kathmandu
+13000000.0,1026.75,13.0,East,1.0,2.0,1.0,Kathmandu,Kathmandu
+23000000.0,1197.87,13.0,East,1.0,4.0,3.0,Budhanilkantha,Kathmandu
+13900000.0,1200.0,13.0,North East,1.0,2.0,1.0,Budhanilkantha,Kathmandu
+8700000.0,1026.75,13.0,North,1.0,2.0,1.0,Chandragiri,Kathmandu
+15200000.0,1026.75,13.0,North West,1.0,2.0,1.0,Mahalaxmi-5,Lalitpur
+16000000.0,1091.7775,13.0,North,1.0,2.0,1.0,Mahalaxmi-6,Lalitpur
+15500000.0,1112.3125,13.0,North East,1.0,2.0,1.0,Mahalaxmi-5,Lalitpur
+11200000.0,1026.75,13.0,East,1.0,2.0,1.0,Mahalaxmi,Lalitpur
+13000000.0,983.96,13.0,South,1.0,2.0,1.0,Mahalaxmi,Lalitpur
+13700000.0,1026.75,13.0,East,1.0,2.0,1.0,Mahalaxmi,Lalitpur
+14500000.0,1026.75,13.0,East,1.0,2.0,2.0,Mahalaxmi,Lalitpur
+23000000.0,1300.0,13.0,East,1.0,2.0,2.0,Mahalaxmi,Lalitpur
+12000000.0,1026.75,13.0,East,1.0,2.0,2.0,Mahalaxmi,Lalitpur
+10900000.0,877.01,13.0,North,1.0,2.0,1.0,Mahalaxmi,Lalitpur
+15500000.0,1200.0,13.0,South,1.0,2.0,1.0,Mahalaxmi,Lalitpur
+16000000.0,1048.14,13.0,East,1.0,2.0,2.0,Lalitpur,Lalitpur
+25500000.0,1283.4375,14.0,East,3.5,7.0,4.0,Tarkeshwar,Kathmandu
+23000000.0,1197.875,14.0,North East,3.5,6.0,4.0,Chandragiri-10,Kathmandu
+62500000.0,3807.53125,14.0,South,3.5,8.0,6.0,Bhainsepati,Lalitpur
+16000000.0,1026.75,14.0,East,3.0,2.0,3.0,Changunarayan,Bhaktapur
+23000000.0,1026.75,14.0,West,3.0,5.0,4.0,Kathmandu Metropolitan city -6,Kathmandu
+53000000.0,1882.375,14.0,North,3.0,5.0,3.0,Kathmandu,Kathmandu
+59500000.0,3422.5,14.0,East,2.5,5.0,6.0,Bhaktapur,Bhaktapur
+59500000.0,3422.5,14.0,East,2.5,5.0,6.0,Madhyapur Thimi,Bhaktapur
+50000000.0,2053.5,14.0,East,2.5,6.0,4.0,Budhanilkantha,Kathmandu
+28500000.0,1475.95,14.0,East,2.5,5.0,4.0,Budhanilkantha,Kathmandu
+34000000.0,1882.37,14.0,East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+72000000.0,4449.25,14.0,South East,2.5,5.0,4.0,Budhanilkantha,Kathmandu
+32500000.0,1882.37,14.0,East,2.5,6.0,5.0,Budhanilkantha,Kathmandu
+65000000.0,2844.95,14.0,East,2.5,8.0,5.0,Kathmandu,Kathmandu
+16500000.0,1711.25,14.0,South,2.5,9.0,3.0,Budhanilkantha,Kathmandu
+70000000.0,2395.75,14.0,South East,2.5,5.0,6.0,BUdhanilkantha-1,Kathmandu
+23500000.0,1540.12,14.0,South,2.5,5.0,4.0,Tokha,Kathmandu
+35000000.0,1711.25,14.0,East,2.5,3.0,3.0,Budhanilkantha,Kathmandu
+40000000.0,5476.0,14.0,South,2.5,5.0,4.0,Chandragiri,Kathmandu
+27000000.0,1369.0,14.0,East,2.5,4.0,3.0,Nagarjun,Kathmandu
+32500000.0,1369.0,14.0,North West,2.5,4.0,4.0,Kageshwori Manahara,Kathmandu
+32900000.0,2139.0625,14.0,North East,2.5,8.0,5.0,Budhanilkantha,Kathmandu
+30000000.0,1711.25,14.0,South West,2.5,5.0,3.0,Godawari,Lalitpur
+26000000.0,1882.375,14.0,North East,2.5,6.0,3.0,Kusunti,Lalitpur
+19000000.0,1283.43,14.0,East,2.5,4.0,3.0,Mahalaxmi,Lalitpur
+25500000.0,1745.475,14.0,East,1.0,5.0,3.0,Kathmandu,Kathmandu
+26800000.0,3101.64,14.0,East,1.0,3.0,1.0,Godawari,Lalitpur
+220000000.0,5133.75,15.0,South,6.5,28.0,11.0,Gausala,Kathmandu
+60000000.0,1369.0,15.0,North West,5.0,8.0,5.0,Kathmandu,Kathmandu
+55500000.0,1369.0,15.0,East,4.5,8.0,5.0,Kathmandu,Kathmandu
+78000000.0,1604.29,15.0,East,4.0,8.0,5.0,Kathmandu,Kathmandu
+48000000.0,2053.5,15.0,West,3.5,7.0,5.0,Suryabinayak,Bhaktapur
+69999999.0,4449.25,15.0,East,3.0,5.0,5.0,Budhanilkantha,Kathmandu
+160000000.0,7871.75,15.0,North,3.0,6.0,6.0,Budhanikantha,Kathmandu
+22500000.0,1069.53,15.0,South East,3.0,6.0,5.0,Budhanilkantha,Kathmandu
+56000000.0,2053.5,15.0,South,2.5,4.0,4.0,Kathmandu,Kathmandu
+42500000.0,2738.0,15.0,North East,2.5,4.0,5.0,Budhanilkantha,Kathmandu
+120000000.0,10267.5,15.0,South West,2.5,5.0,5.0,Tokha,Kathmandu
+50000000.0,1796.8125,15.0,North East,2.5,5.0,6.0,Lalitpur,Lalitpur
+35000000.0,1711.25,15.0,South East,2.5,4.0,4.0,Lalitpur,Lalitpur
+120000000.0,6845.0,15.0,South,2.0,4.0,4.0,Kathmandu,Kathmandu
+26000000.0,1668.46,15.0,East,2.0,6.0,4.0,Kathmandu,Kathmandu
+35000000.0,1711.25,16.0,East,5.0,8.0,5.0,Kathmandu,Kathmandu
+85000000.0,2909.12,16.0,West,4.5,7.0,5.0,Kathmandu,Kathmandu
+78000000.0,1711.25,16.0,North East,4.0,8.0,5.0,Kathmandu,Kathmandu
+105000000.0,2481.31,16.0,South,4.0,8.0,5.0,Kathmandu,Kathmandu
+38000000.0,2502.7,16.0,South,3.5,7.0,5.0,Tokha,Kathmandu
+65000000.0,3148.7,16.0,South East,3.5,6.0,3.0,Kathmandu,Kathmandu
+63000000.0,2566.875,16.0,East,3.5,6.0,5.0,Budhanilkantha,Kathmandu
+55000000.0,2053.5,16.0,North East,3.5,7.0,5.0,Mahalaxmi,Lalitpur
+150000000.0,7529.5,16.0,North,3.0,6.0,5.0,Lalitpur,Kathmandu
+100000000.0,7187.25,16.0,South,3.0,5.0,5.0,Budhanilkantha,Kathmandu
+100000000.0,7187.25,16.0,South,3.0,5.0,5.0,Budhanilkantha,Kathmandu
+23000000.0,1454.56,16.0,East,3.0,6.0,5.0,Kageshwori Manahara,Kathmandu
+23000000.0,1197.875,16.0,East,3.0,4.0,3.0,Budhanilkantha,Kathmandu
+125000000.0,7529.5,16.0,North East,3.0,6.0,5.0,Budhanilkantha,Kathmandu
+41500000.0,3800.0,16.0,West,3.0,6.0,6.0,Lalitpur,Lalitpur
+25000000.0,1133.0,16.0,West,2.5,4.0,4.0,Suryabinayak,Bhaktapur
+63000000.0,3422.5,16.0,South,2.5,5.0,5.0,Suryabinayak,Bhaktapur
+22500000.0,1796.81,16.0,East,2.5,4.0,3.0,Chandragiri,Kathmandu
+17000000.0,855.62,16.0,West,2.5,4.0,2.0,Kathmandu,Kathmandu
+17500000.0,1112.3125,16.0,North,2.5,5.0,4.0,Nagarjun,Kathmandu
+16500000.0,1197.87,16.0,East,2.5,4.0,3.0,Chandragiri,Kathmandu
+45000000.0,2652.4375,16.0,East,2.5,4.0,3.0,Kathmandu,Kathmandu
+36000000.0,2053.5,16.0,East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+45000000.0,2738.0,16.0,West,2.5,6.0,5.0,Kathmandu,Kathmandu
+43000000.0,1711.25,16.0,South East,2.5,4.0,4.0,Budhanilkantha,Kathmandu
+25000000.0,103.34,16.0,East,2.5,4.0,3.0,Tokha,Kathmandu
+120000000.0,342.25,16.0,South,2.5,4.0,4.0,Budhanikantha,Kathmandu
+27500000.0,1026.75,16.0,South West,2.5,3.0,3.0,Budhanilkantha,Kathmandu
+100000000.0,2738.0,16.0,South,2.5,5.0,3.0,Kathmandu,Kathmandu
+32500000.0,1369.0,16.0,East,2.5,5.0,4.0,Budhanilkantha,Kathmandu
+100000000.0,6160.5,16.0,South East,2.5,6.0,5.0,Budhanilkantha,Kathmandu
+100000000.0,6160.5,16.0,East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+22350000.0,1026.75,16.0,North,2.5,3.0,3.0,Kathmandu,Kathmandu
+23000000.0,1283.43,16.0,East,2.5,4.0,3.0,Lalitpur,Lalitpur
+24000000.0,1026.75,16.0,North,2.5,5.0,4.0,Mahalaxmi-4,Lalitpur
+22500000.0,1197.875,16.0,West,2.5,6.0,3.0,Mahalaxmi- 02,Lalitpur
+24000000.0,1047.285,16.0,West,2.5,4.0,4.0,Mahalaxmi-4,Lalitpur
+50000000.0,3422.5,16.0,East,2.5,5.0,3.0,Lalitpur,Lalitpur
+39000000.0,1437.45,16.0,East,2.5,4.0,4.0,Lalitpur,Lalitpur
+19500000.0,1200.0,16.0,West,2.5,5.0,3.0,Mahalaxmi,Lalitpur
+38500000.0,1060.975,16.0,East,2.5,4.0,4.0,Lalitpur,Lalitpur
+24500000.0,1197.875,16.0,East,2.5,6.0,5.0,Mahalaxmi,Lalitpur
+110000000.0,6845.0,16.0,South East,2.5,4.0,2.0,Lalitpur,Lalitpur
+25000000.0,1026.75,16.0,East,2.5,6.0,5.0,Mahalaxmi-5,Lalitpur
+37000000.0,1711.25,16.0,East,2.5,4.0,4.0,Lalitpur,Lalitpur
+22000000.0,1112.31,16.0,North East,2.5,4.0,4.0,Mahalaxmi,Lalitpur
+32000000.0,1369.0,16.0,East,2.0,6.0,4.0,Kathmandu,Kathmandu
+120000000.0,4107.0,16.0,North,1.5,3.0,2.0,Kathmandu,Kathmandu
+17500000.0,1540.125,16.0,South,1.0,2.0,1.0,Budhanilkantha Municipality -8,Kathmandu
+17000000.0,855.62,16.0,East,1.0,6.0,3.0,Chandragiri,Kathmandu
+18000000.0,1796.8,16.0,North East,1.0,2.0,4.0,Kathmandu,Kathmandu
+68000000.0,2464.2,16.0,South East,1.0,6.0,5.0,Budhanilkantha,Kathmandu
+33500000.0,1369.0,16.0,East,1.0,4.0,4.0,Kathmandu,Kathmandu
+150000000.0,1197.875,16.0,South East,1.0,2.0,1.0,Tarkeshwor,Kathmandu
+85000000.0,3764.75,18.0,East,3.5,5.0,5.0,Kathmandu,Kathmandu
+36100000.0,1711.25,18.0,South,3.5,7.0,3.0,Tokha,Kathmandu
+15000000.0,855.625,18.0,North East,3.5,5.0,3.0,Balkumari,Lalitpur
+65000000.0,2909.12,18.0,West,3.0,5.0,5.0,Tokha,Kathmandu
+30000000.0,1711.25,18.0,West,2.5,5.0,5.0,Suryabinayak,Bhaktapur
+30000000.0,3080.25,18.0,North,2.5,5.0,5.0,Budhanikantha,Kathmandu
+100000000.0,4107.0,18.0,South,2.5,4.0,3.0,Budhanilkantha,Kathmandu
+31000000.0,1369.0,18.0,South East,2.5,4.0,5.0,Lalitpur,Lalitpur
+17500000.0,1394.0,20.0,South East,12.0,3.0,2.0,Patan,Lalitpur
+80000000.0,3762.0,20.0,North West,5.5,8.0,5.0,Madhyapur Thimi,Bhaktapur
+47500000.0,3080.25,20.0,North East,5.5,11.0,10.0,Balaju,Kathmandu
+92500000.0,2000.0,20.0,East,5.5,12.0,5.0,Kathmandu,Kathmandu
+140000000.0,1711.25,20.0,East,5.5,5.0,10.0,Lalitpur,Lalitpur
+160000000.0,5476.0,20.0,West,5.0,5.0,3.0,Kathmandu,Kathmandu
+80000000.0,941.18,20.0,South West,5.0,1.0,4.0,Kathmandu,Kathmandu
+27000000.0,855.625,20.0,West,4.5,3.0,1.0,Kathmandu,Kathmandu
+67500000.0,3101.640625,20.0,North East,4.0,11.0,4.0,Kathmandu-06,Kathmandu
+45000000.0,1540.125,20.0,East,4.0,8.0,5.0,Kathmandu,Kathmandu
+65000000.0,2053.5,20.0,East,4.0,5.0,4.0,Lalitpur,Lalitpur
+135000000.0,4791.5,20.0,South East,3.5,5.0,6.0,Tokha,Kathmandu
+73000000.0,3935.875,20.0,North West,3.5,21.0,4.0,Kathmandu,Kathmandu
+29000000.0,1369.0,20.0,North East,3.5,8.0,5.0,Chandragiri-11,Kathmandu
+67500000.0,1450.07,20.0,North,3.5,4.0,1.0,Kathmandu,Kathmandu
+200000000.0,6502.75,20.0,West,3.5,8.0,5.0,Kathmandu,Kathmandu
+120000000.0,4107.0,20.0,South,3.5,8.0,5.0,Kathmandu,Kathmandu
+37000000.0,2087.725,20.0,East,3.5,7.0,4.0,Budhanilkantha,Kathmandu
+57500000.0,1500.0,20.0,East,3.5,5.0,6.0,Lalitpur,Lalitpur
+15000000.0,1060.975,20.0,North,3.0,5.0,3.0,Madhyapur Thimi,Bhaktapur
+23000000.0,1369.0,20.0,North East,3.0,5.0,3.0,Madhyapur Thimi,Bhaktapur
+140000000.0,8214.0,20.0,North,3.0,8.0,3.0,Kathmandu,Kathmandu
+45000000.0,2738.0,20.0,East,3.0,5.0,5.0,Budhanilkantha,Kathmandu
+68000000.0,2738.0,20.0,South West,3.0,6.0,5.0,Budhanilkantha,Kathmandu
+32000000.0,1437.45,20.0,East,3.0,8.0,5.0,Kathmandu,Kathmandu
+35000000.0,884.04,20.0,East,3.0,3.0,4.0,Kathmandu,Kathmandu
+35000000.0,1540.125,20.0,East,3.0,8.0,5.0,Tokha,Kathmandu
+45000000.0,3764.75,20.0,East,3.0,7.0,4.0,Nagarjun,Kathmandu
+25000000.0,1200.0,20.0,East,3.0,5.0,3.0,Mahalaxmi,Lalitpur
+25000000.0,700.0,20.0,North East,3.0,6.0,3.0,Mahalaxmi,Lalitpur
+16000000.0,1026.75,20.0,East,3.0,1.0,1.0,Lalitpur,Lalitpur
+28500000.0,1369.0,20.0,South,3.0,4.0,5.0,Godawari,Lalitpur
+35000000.0,1540.12,20.0,South East,3.0,5.0,4.0,Lalitpur,Lalitpur
+22000000.0,1369.0,20.0,North,3.0,5.0,3.0,Mahalaxmi,Lalitpur
+65000000.0,4278.125,20.0,North,2.5,4.0,5.0,Bhaktapur,Bhaktapur
+24500000.0,1197.875,20.0,North,2.5,5.0,3.0,Madhyapur Thimi,Bhaktapur
+21000000.0,2004.75,20.0,East,2.5,5.0,4.0,Bhaktapur,Kathmandu
+28000000.0,1283.4375,20.0,West,2.5,8.0,4.0,Guheshwori Planning,Kathmandu
+35000000.0,1754.03125,20.0,West,2.5,5.0,4.0,Kathmandu,Kathmandu
+26700000.0,1711.25,20.0,West,2.5,6.0,1.0,Kathmandu,Kathmandu
+38500000.0,1625.68,20.0,East,2.5,6.0,5.0,Budhanilkantha,Kathmandu
+269999999.0,5476.0,20.0,South,2.5,6.0,4.0,Budhanilkantha,Kathmandu
+36500000.0,1369.0,20.0,East,2.5,5.0,3.0,Budhanilkantha,Kathmandu
+29000000.0,1796.81,20.0,West,2.5,7.0,4.0,Nagarjun,Kathmandu
+45000000.0,1369.0,20.0,North,2.5,6.0,4.0,Kathmandu,Kathmandu
+24500000.0,1403.225,20.0,North,2.5,4.0,4.0,Swayambhu,Kathmandu
+30000000.0,1711.25,20.0,North,2.5,6.0,3.0,Kageshwori Manahara-6,Kathmandu
+31000000.0,1882.375,20.0,North,2.5,5.0,6.0,Budhanilkantha,Kathmandu
+23500000.0,1369.0,20.0,South East,2.5,6.0,4.0,Kageshwori Manohara -7,Kathmandu
+52500000.0,3080.25,20.0,South West,2.5,5.0,5.0,Kathmandu,Kathmandu
+59000000.0,2652.43,20.0,South East,2.5,4.0,5.0,Budhanilkantha,Kathmandu
+32000000.0,1882.375,20.0,North,2.5,4.0,5.0,Budhanilkantha,Kathmandu
+55000000.0,2395.75,20.0,East,2.5,6.0,5.0,Kathmandu,Kathmandu
+45000000.0,1500.0,20.0,East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+52500000.0,1711.25,20.0,North,2.5,4.0,5.0,Kathmandu,Kathmandu
+190000000.0,4449.25,20.0,South East,2.5,4.0,5.0,Kathmandu,Kathmandu
+16000000.0,1026.75,20.0,East,2.5,6.0,3.0,Budhanilkantha,Kathmandu
+26000000.0,1500.0,20.0,East,2.5,5.0,4.0,Tokha,Kathmandu
+34500000.0,2566.875,20.0,East,2.5,4.0,4.0,Budhanilkantha,Kathmandu
+32000000.0,2053.5,20.0,East,2.5,5.0,4.0,Chandragiri,Kathmandu
+47500000.0,2053.5,20.0,East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+55000000.0,3080.25,20.0,South East,2.5,4.0,5.0,Budhanilkantha,Kathmandu
+57500000.0,2395.75,20.0,South,2.5,4.0,5.0,Budhanilkantha,Kathmandu
+50000000.0,1540.125,20.0,West,2.5,4.0,5.0,Budhanilkantha,Kathmandu
+58000000.0,2224.625,20.0,South East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+70000000.0,2738.0,20.0,West,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+38000000.0,1711.25,20.0,North,2.5,6.0,5.0,Tokha,Kathmandu
+150000000.0,6160.5,20.0,South East,2.5,6.0,5.0,Budhanikantha,Kathmandu
+145000000.0,5133.75,20.0,North East,2.5,4.0,5.0,Budhanikantha,Kathmandu
+32000000.0,1625.6875,20.0,East,2.5,5.0,4.0,Tokha,Kathmandu
+21000000.0,1026.75,20.0,East,2.5,6.0,3.0,Budhanilkantha,Kathmandu
+160000000.0,5818.25,20.0,East,2.5,6.0,4.0,Kathmandu,Kathmandu
+63500000.0,2464.2,20.0,North East,2.5,8.0,4.0,Kathmandu,Kathmandu
+45000000.0,2395.75,20.0,East,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+24000000.0,1197.875,20.0,East,2.5,6.0,3.0,Kathmandu,Kathmandu
+18500000.0,1026.75,20.0,West,2.5,3.0,3.0,Budhanilkantha,Kathmandu
+24000000.0,1155.09375,20.0,North West,2.5,3.0,5.0,Lalitpur,Lalitpur
+27000000.0,1411.78125,20.0,North,2.5,3.0,3.0,Lalitpur,Lalitpur
+50000000.0,1200.0,20.0,North,2.5,4.0,3.0,Lalitpur,Lalitpur
+36000000.0,2395.75,20.0,North East,2.5,5.0,2.0,Mahalaxmi,Lalitpur
+23500000.0,1112.3125,20.0,West,2.5,7.0,3.0,Mahalaxmi,Lalitpur
+27500000.0,1048.140625,20.0,South,2.5,4.0,4.0,Lalitpur,Lalitpur
+32000000.0,1283.43,20.0,West,2.5,5.0,4.0,Mahalaxmi,Lalitpur
+42500000.0,1262.04,20.0,South East,2.5,4.0,4.0,Mahalaxmi,Lalitpur
+310000000.0,1625.68,20.0,South,2.5,4.0,4.0,Mahalaxmi,Lalitpur
+29500000.0,1369.0,20.0,East,2.5,4.0,4.0,Lalitpur,Lalitpur
+19800000.0,1026.75,20.0,South,2.5,4.0,3.0,Lalitpur,Lalitpur
+50000000.0,2053.5,20.0,South West,2.5,4.0,3.0,Godawari,Lalitpur
+44000000.0,1347.6,20.0,North,2.5,4.0,4.0,Lalitpur,Lalitpur
+47500000.0,2395.75,20.0,North East,2.5,5.0,4.0,Lalitpur,Lalitpur
+19500000.0,941.1875,20.0,East,2.5,4.0,3.0,Mahalaxmi,Lalitpur
+28500000.0,1026.75,20.0,East,2.5,6.0,3.0,Mahalaxmi,Lalitpur
+29000000.0,1369.0,20.0,East,2.5,4.0,4.0,lalitpur,Lalitpur
+50000000.0,2053.5,20.0,South,2.5,4.0,3.0,Godawari,Lalitpur
+46500000.0,2053.5,20.0,South East,2.5,4.0,4.0,Godawari,Lalitpur
+28000000.0,1026.75,20.0,West,2.5,5.0,4.0,Mahalaxmi,Lalitpur
+29900000.0,1796.8125,20.0,East,2.5,6.0,3.0,Lalitpur-26,Lalitpur
+41500000.0,1625.6875,20.0,East,2.5,4.0,4.0,Lalitpur,Lalitpur
+45000000.0,2738.0,20.0,East,2.0,6.0,4.0,Budhanilkantha,Kathmandu
+22500000.0,1711.25,20.0,East,2.0,4.0,3.0,Gokarneshwor,Kathmandu
+75000000.0,3080.25,20.0,South,2.0,5.0,2.0,Lalitpur,Lalitpur
+31000000.0,1369.0,20.0,West,2.0,4.0,3.0,Lalitpur,Lalitpur
+18000000.0,1026.75,20.0,East,2.0,4.0,3.0,Godawari,Lalitpur
+23500000.0,1262.046875,20.0,South,2.0,6.0,6.0,Mahalaxmi-9,Lalitpur
+15500000.0,2053.5,20.0,East,1.5,4.0,2.0,Changunarayan,Bhaktapur
+15000000.0,317.9,20.0,West,1.0,1.0,1.0,Suryabinayak,Bhaktapur
+39500000.0,1625.6875,20.0,North,1.0,4.0,3.0,Tokha,Kathmandu
+24000000.0,1369.0,20.0,East,1.0,1.0,1.0,Budhanilkantha,Kathmandu
+29000000.0,1750.0,20.0,South,1.0,5.0,4.0,Mahalaxmi,Lalitpur
+10500000.0,1026.75,20.0,North East,1.0,1.0,1.0,Mahalaxmi,Lalitpur
+67500000.0,12321.0,20.0,South,1.0,3.0,3.0,Godawari,Lalitpur
+35000000.0,620.32,22.0,East,5.0,4.0,5.0,Lalitpur,Lalitpur
+24000000.0,800.0,22.0,North,4.0,4.0,4.0,Madhyapur Thimi,Bhaktapur
+26000000.0,1283.4375,22.0,South East,3.0,6.0,3.0,Gokarneshwor-2,Kathmandu
+28500000.0,1369.0,22.0,South,3.0,8.0,5.0,Lalitpur,Lalitpur
+100000000.0,3422.5,22.0,East,2.5,5.0,5.0,Tokha,Kathmandu
+42900000.0,4107.0,22.0,East,2.5,8.0,5.0,Chandragiri,Kathmandu
+42500000.0,1454.5625,24.0,North East,4.5,8.0,4.0,Kathmandu,Kathmandu
+58000000.0,1711.25,24.0,South,3.5,5.0,5.0,Hattiban,Lalitpur
+50000000.0,2762.29975,24.0,North West,3.0,7.0,3.0,Kathmandu,Kathmandu
+49500000.0,1390.39,24.0,North East,2.5,6.0,4.0,Kathmandu,Kathmandu
+90000000.0,2053.5,25.0,South West,6.0,8.0,5.0,Kathmandu,Kathmandu
+21000000.0,1283.4375,25.0,East,4.0,9.0,5.0,Kathmandu,Kathmandu
+28000000.0,1112.31,25.0,South,4.0,8.0,3.0,Budhanilkantha,Kathmandu
+37000000.0,1369.0,25.0,North East,3.5,6.0,6.0,Gokarneshwor,Kathmandu
+42500000.0,2053.5,25.0,East,2.5,5.0,4.0,Budhanilkantha,Kathmandu
+105000000.0,10952.0,25.0,North West,2.5,5.0,5.0,Budhanilkantha,Kathmandu
+60000000.0,1711.25,26.0,South East,5.5,20.0,10.0,Kathmandu,Kathmandu
+32500000.0,1882.375,26.0,North East,4.0,10.0,4.0,Bhaktapur,Bhaktapur
+19500000.0,1197.87,26.0,East,3.5,4.0,3.0,Suryabinayak,Bhaktapur
+55000000.0,2566.875,26.0,South,3.5,3.0,3.0,Suryabinayak-2,Bhaktapur
+72500000.0,3422.5,26.0,South,2.5,6.0,6.0,Kathmandu,Kathmandu
+29000000.0,1197.875,26.0,South East,2.5,3.0,3.0,Lalitpur Municipality,Lalitpur
+25000000.0,1369.0,26.0,East,2.5,3.0,4.0,Godawari,Lalitpur
+23000000.0,1369.0,27.0,North,3.5,4.0,4.0,Mahalaxmi,Lalitpur
+40000000.0,1882.37,28.0,South East,4.0,8.0,6.0,Budhanilkantha,Kathmandu
+27000000.0,855.625,28.0,East,1.0,1.0,1.0,Kathmandu,Kathmandu
+23500000.0,1197.875,30.0,East,4.0,10.0,4.0,Kathmandu,Kathmandu
+31500000.0,1796.81,30.0,East,3.5,7.0,4.0,Kathmandu,Kathmandu
+42500000.0,1754.03,30.0,South,2.5,5.0,4.0,Suryabinayak,Bhaktapur
+46000000.0,3251.37,30.0,East,2.5,5.0,3.0,Lalitpur,Lalitpur
+22500000.0,1026.75,30.0,East,2.5,4.0,3.0,Patan,Lalitpur
+160000000.0,1540.08,32.0,South,2.5,4.0,3.0,Kathmandu,Kathmandu
+32000000.0,3080.0,32.0,South East,2.5,1.0,2.0,Gokarneshwor,Kathmandu
+70000000.0,5133.75,36.0,East,2.5,7.0,4.0,Madhyapur-07,Bhaktapur
+11000000.0,1026.75,40.0,South East,2.0,3.0,2.0,Lalitpur,Lalitpur
+25000000.0,1818.2,44.0,East,2.5,8.0,3.0,Gokarneshwor,Kathmandu
